@@ -82,7 +82,7 @@ html {background: white; text-align: center}
 	width: 100%;
 	max-width: 1200px;
 	padding: 30px;
-	margin-left: 160px;
+	margin:auto;
   }
   @media screen and (max-width: 760px) {
 	.l-container {
